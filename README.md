@@ -9,7 +9,8 @@
 5. Run the program with `py .\CrosshairZ.py` or `python3 .\CrosshairZ.py`
 
 # Screenshot:
-![CrosshairZ V2 Screenshot](da aggiugnere)
+<img width="718" height="772" alt="image" src="https://github.com/user-attachments/assets/b1c3943c-ce09-4d62-9ff2-4b7bf177e656" />
+
 
 ## Maintaining
 **This project will not be maintained any further.**
